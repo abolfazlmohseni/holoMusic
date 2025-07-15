@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.11",
+    "tailwindcss": "^4.1.11"
+  },"scripts": {
+    "dev":"npx @tailwindcss/cli -i ./public/input.css -o ./public/asset/webSite/platformPage/css/style.css --watch"
+  }
+}
