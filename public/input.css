@@ -1,1 +1,19 @@
 @import "tailwindcss";
+
+
+@theme {
+    --spacing-46: 11.5rem;
+    --drop-shadow-rosehover: 0 35px 35px rgba(225, 29, 72, 0.40);
+    --drop-shadow-rose: 0 35px 35px rgba(225, 29, 72, 0.20);
+}
+
+body {
+    background-color: #1A1B1F;
+}
+
+
+/* 
+body {
+    max-width: 1440px !important;
+    margin: 0 auto;
+} */
